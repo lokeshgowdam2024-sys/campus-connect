@@ -6,7 +6,7 @@ A simple platform to help organizations manage campus ambassadors without confus
 
 📹 Demo Video
 
-📹 Demo video link: (to be added)
+📹 Demo video link: https://drive.google.com/drive/folders/1x0f4vcbZsSztxx2ks1fX2N9eSLxfd_Hz?usp=drive_link
 
 🤔 Problem Statement
 
